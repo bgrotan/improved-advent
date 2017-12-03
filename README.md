@@ -10,6 +10,7 @@
   of the file.
 * https://www.linkedin.com/pulse/open-source-advent-2-bj%C3%B8rn-ove-gr%C3%B8tan/
  
-### Post #3: To be desided..
-* 
-* 
+### Post #3: Crowd sourcing for humanitarian work
+* Today I talk about crowd sourcing for humanitarian work, engineers without borders, HotOSM and MapSwipe.
+* https://www.linkedin.com/pulse/crowd-sourcing-humanitarian-work-bjørn-ove-grøtan/?
+* https://mapswipe.org/
