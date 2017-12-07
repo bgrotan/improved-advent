@@ -27,3 +27,8 @@
 * In this post I share (some of) my pictures as well as thousands of pictures from NGU public photo archive
 * [https://www.linkedin.com/pulse/open-source-advent-6-photo-archive-bj%C3%B8rn-ove-gr%C3%B8tan/]
 * [http://foto.ngu.no/fotoweb/archives/5001-Fotoarkiv%20Ekstern/]
+
+### Post #7 - Free leasure maps
+* First week of Open Source Advent done with post #7. 
+* Check out these free leasure maps, either printed maps or digital - for mainland and coastal parts of Norway
+* (https://www.linkedin.com/pulse/open-source-advent-7-free-leasure-maps-outdoors-bj%C3%B8rn-ove-gr%C3%B8tan/)
