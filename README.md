@@ -37,3 +37,7 @@
 * Where do you go when the first source of data is inadequate? And the next? And the next? Will this story never end?
 * This is the first part of a story from attending #hack4no - a founder hackaton arranged by the mapping authority and difi.no
 * (https://www.linkedin.com/pulse/open-advent-8-hidden-treasures-geodata-bj%C3%B8rn-ove-gr%C3%B8tan/)
+
+### Post #9: It's hammertime!
+* Postgresql is my favourite hammer. And it has all the extensions of a swiss army knife
+* https://www.linkedin.com/pulse/open-source-advent-9-its-hammertime-bjørn-ove-grøtan/
