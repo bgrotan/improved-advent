@@ -44,5 +44,6 @@
 
 ### Post #10: Making beautiful soup
 * Webscraping in lack of good APIs 
-* Inspired from https://github.com/halset/jskdata and https://github.com/atlefren/skdata
+* Inspired by https://github.com/halset/jskdata and https://github.com/atlefren/skdata
+* https://github.com/bgrotan/trkdata
 * https://www.linkedin.com/pulse/open-source-advent-10-making-beautiful-soup-bjørn-ove-grøtan/
