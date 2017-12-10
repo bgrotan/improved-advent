@@ -41,3 +41,8 @@
 ### Post #9: It's hammertime!
 * Postgresql is my favourite hammer. And it has all the extensions of a swiss army knife
 * https://www.linkedin.com/pulse/open-source-advent-9-its-hammertime-bjørn-ove-grøtan/
+
+### Post #10: Making beautiful soup
+* Webscraping in lack of good APIs 
+* Inspired from https://github.com/halset/jskdata and https://github.com/atlefren/skdata
+* https://www.linkedin.com/pulse/open-source-advent-10-making-beautiful-soup-bjørn-ove-grøtan/
