@@ -47,3 +47,10 @@
 * Inspired by https://github.com/halset/jskdata and https://github.com/atlefren/skdata
 * https://github.com/bgrotan/trkdata
 * https://www.linkedin.com/pulse/open-source-advent-10-making-beautiful-soup-bjørn-ove-grøtan/
+
+### Post #11: Telling the good story using maps and open data
+* Scrollama
+* https://pudding.cool/process/introducing-scrollama/
+* https://pudding.cool/2017/04/beer/
+* https://github.com/russellgoldenberg/scrollama#scrollamajs
+* https://www.linkedin.com/pulse/open-source-advent-11-telling-good-story-maps-data-bj%C3%B8rn-ove-gr%C3%B8tan/
