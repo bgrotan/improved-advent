@@ -54,3 +54,9 @@
 * https://pudding.cool/2017/04/beer/
 * https://github.com/russellgoldenberg/scrollama#scrollamajs
 * https://www.linkedin.com/pulse/open-source-advent-11-telling-good-story-maps-data-bj%C3%B8rn-ove-gr%C3%B8tan/
+
+### Post #12 - All about that base
+* It's all about metadata
+* Metadata is not boring, it make your life easier
+* It's all about integration - forget about webportals (or rather please do not)
+* https://www.linkedin.com/pulse/open-source-advent-12-all-base-bjørn-ove-grøtan
