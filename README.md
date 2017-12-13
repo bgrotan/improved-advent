@@ -60,3 +60,8 @@
 * Metadata is not boring, it make your life easier
 * It's all about integration - forget about webportals (or rather please do not)
 * https://www.linkedin.com/pulse/open-source-advent-12-all-base-bjørn-ove-grøtan
+
+### Post 13 - Open 3D data
+* Trondheim 3D
+* Free and open 3D Studio Max viewer
+* https://www.linkedin.com/pulse/open-source-advent-13-3d-bj%C3%B8rn-ove-gr%C3%B8tan/
