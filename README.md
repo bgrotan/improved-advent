@@ -69,3 +69,11 @@
 ### Post 14 - Hidden treasures in public data part two. Custom maps from Open Street Map data
 * Open Bike Map, MTBMap, OpenSnowMap (ski pists etc)
 * https://www.linkedin.com/pulse/open-source-advent-14-hidden-treasures-public-geodata-gr%C3%B8tan/
+
+### Post 15 - Game of drones - a mission impossible?  
+* point clouds from drones and helicopters vs national elevation models.
+* https://www.linkedin.com/pulse/open-source-advent-15-game-drones-mission-impossible-bjørn-ove-grøtan/
+
+### Post 16 - Downloading geology - a brief history 2010-2017
+* From nothing, via FMEServer 2010 to distributed download from our national geoportal
+https://www.linkedin.com/pulse/open-source-advent-16-downloading-geology-2010-2017-bjørn-ove-grøtan/
