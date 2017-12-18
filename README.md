@@ -78,6 +78,10 @@
 * From nothing, via FMEServer 2010 to distributed download from our national geoportal
 https://www.linkedin.com/pulse/open-source-advent-16-downloading-geology-2010-2017-bjørn-ove-grøtan/
 
-### Post 16 - Augmented geology
+### Post 17 - Augmented geology
 * Border Go -> Geology GO?
 * https://www.linkedin.com/pulse/open-source-advent-17-augmented-geology-bj%C3%B8rn-ove-gr%C3%B8tan/
+
+### Post 18 - Responsively so
+* Bootstrap JS,CSS,HTML
+* https://www.linkedin.com/pulse/open-source-advent-18-responsively-so-bj%C3%B8rn-ove-gr%C3%B8tan/
