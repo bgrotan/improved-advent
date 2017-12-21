@@ -85,3 +85,17 @@ https://www.linkedin.com/pulse/open-source-advent-16-downloading-geology-2010-20
 ### Post 18 - Responsively so
 * Bootstrap JS,CSS,HTML
 * https://www.linkedin.com/pulse/open-source-advent-18-responsively-so-bj%C3%B8rn-ove-gr%C3%B8tan/
+
+### Post 19 - The heroes of #FOSS4G
+* GDAL, OGR and PROJ
+* https://www.linkedin.com/pulse/open-source-advent-19-heroes-foss4g-bj%C3%B8rn-ove-gr%C3%B8tan/
+
+### Post 20 - Elevate your surface data
+* hoydedata.no
+* National elevation data and JSKData
+* https://www.linkedin.com/pulse/open-source-advent-20-elevate-your-data-bj%C3%B8rn-ove-gr%C3%B8tan/
+
+### Post 21 - 
+* Preikestolen prototype
+* Potree - WebGL
+* https://www.linkedin.com/pulse/open-source-advent-21-partridge-potree-bj%C3%B8rn-ove-gr%C3%B8tan/
