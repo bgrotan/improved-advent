@@ -95,7 +95,7 @@ https://www.linkedin.com/pulse/open-source-advent-16-downloading-geology-2010-20
 * National elevation data and JSKData
 * https://www.linkedin.com/pulse/open-source-advent-20-elevate-your-data-bj%C3%B8rn-ove-gr%C3%B8tan/
 
-### Post 21 - 
+### Post 21 - ... and a partridge in a Potree
 * Preikestolen prototype
 * Potree - WebGL
 * https://www.linkedin.com/pulse/open-source-advent-21-partridge-potree-bj%C3%B8rn-ove-gr%C3%B8tan/
