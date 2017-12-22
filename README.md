@@ -99,3 +99,8 @@ https://www.linkedin.com/pulse/open-source-advent-16-downloading-geology-2010-20
 * Preikestolen prototype
 * Potree - WebGL
 * https://www.linkedin.com/pulse/open-source-advent-21-partridge-potree-bj%C3%B8rn-ove-gr%C3%B8tan/
+
+### Post 22 - Marine map catalog
+* KartkatalogWMS - Mareano-kart
+* Kartkatalogen - visning av mareano-kart
+* https://www.linkedin.com/pulse/open-source-advent-22-map-catalog-bj%C3%B8rn-ove-gr%C3%B8tan/
