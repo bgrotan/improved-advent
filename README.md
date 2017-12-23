@@ -104,3 +104,7 @@ https://www.linkedin.com/pulse/open-source-advent-16-downloading-geology-2010-20
 * KartkatalogWMS - Mareano-kart
 * Kartkatalogen - visning av mareano-kart
 * https://www.linkedin.com/pulse/open-source-advent-22-map-catalog-bj%C3%B8rn-ove-gr%C3%B8tan/
+
+### Post 23 - Geopackage
+* www.geopackage.org
+* https://www.linkedin.com/pulse/open-source-advent-23-all-i-want-christmas-bj%C3%B8rn-ove-gr%C3%B8tan/
