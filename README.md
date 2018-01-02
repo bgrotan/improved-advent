@@ -108,3 +108,7 @@ https://www.linkedin.com/pulse/open-source-advent-16-downloading-geology-2010-20
 ### Post 23 - Geopackage
 * www.geopackage.org
 * https://www.linkedin.com/pulse/open-source-advent-23-all-i-want-christmas-bj%C3%B8rn-ove-gr%C3%B8tan/
+
+### Post 24 - Layer upon layer
+* OpenLayers 4
+* https://www.linkedin.com/pulse/open-source-advent-24-layer-upon-bj%C3%B8rn-ove-gr%C3%B8tan/
